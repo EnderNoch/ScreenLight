@@ -13,7 +13,8 @@ go back to the options.
 - **Dismiss** by pressing any key, a modifier, or clicking/tapping the trackpad — this
   returns to the options screen and **restores your previous brightness**.
 - **Launch at login** toggle so the options screen is ready on startup.
-
+## Download
+Download the ScreenLight.zip file and open it and move to Applications folder
 ## Build
 
 Requires the Swift toolchain (Command Line Tools or Xcode):
